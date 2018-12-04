@@ -1,0 +1,11 @@
+svg{
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+}
+#US{
+    fill:green;
+}
+.land:hover {
+    fill: red !important;
+    cursor: pointer;
+}
